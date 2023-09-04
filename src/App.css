@@ -1,12 +1,13 @@
-.App {
-  text-align: center;
-}
+/* App.css */
 body {
   margin: 0;
   padding: 0;
-  background-color:olive;
-  font-family: Arial, sans-serif; /* Optional: Set the font-family */
+  background: url('annie-spratt-0ZPSX_mQ3xI-unsplash.jpg') no-repeat center center fixed;
+  background-size: cover;
+  text-align: center;
+
 }
+
 h1 {
-  font-family: 'Pacifico', cursive; /* Apply a different font to the h1 element, e.g., "Pacifico" */
+  font-family: 'Gazpacho', Arial, sans-serif;
 }
