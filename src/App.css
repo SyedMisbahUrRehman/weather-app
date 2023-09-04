@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color:olive;
+  font-family: Arial, sans-serif; /* Optional: Set the font-family */
+}
+h1 {
+  font-family: 'Pacifico', cursive; /* Apply a different font to the h1 element, e.g., "Pacifico" */
+}
