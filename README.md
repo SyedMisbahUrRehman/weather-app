@@ -74,3 +74,6 @@ To use this app, you will need to sign up for an OpenWeatherMap API key. You can
 ## Contributing
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or create a pull request.
+
+Live App
+You can access the live Weather App here: [Weather App Live](https://weather-msb.surge.sh/)
